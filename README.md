@@ -1,2 +1,2 @@
 My Devops journey starts today
-This is a Bad chenage
+Just a mistake
